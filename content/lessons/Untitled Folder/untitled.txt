@@ -1,0 +1,11 @@
+Written explanation of "who worked on what" outlining individual contributions to this final project:
+
+We all worked together on the code. Senith found the API that we utilized for our program. Jessica worked on the exceptions and Carol worked on the input. Senith worked on getting it to connect to expedia. 
+
+A write up of how your code works technically. This should be similar to the homework process: Inputs, Algorithm and outputs. 
+
+Inputs:The city that you want to travel to. 
+Outputs: The temperature and a description of the area, a new tab that connects to expedia
+Algorithm: Reads users input, connects to API, API find the city and the corresponding weather, a new tab opens for expedia for the user can find hotels. If a user does not enter a real city, the program has an exception that says that is not a real city. There is also an exception if it cannot connect to the url.
+
+
